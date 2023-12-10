@@ -28,7 +28,7 @@ const Projects = () => {
 
         </div>
 
-        <div className='w-60 bg-white ml-7 mt-5 h-[300px] mb-14 shadow-2xl rounded-xl overflow-hidden '>
+        <div className='w-60 bg-white ml-14 mt-5 h-[300px] mb-14 shadow-2xl rounded-xl overflow-hidden '>
 
           <div className='h-1/3 bg-red-500 '><FaBookOpen className='m-auto translate-y-[50%] text-5xl' /></div>
           <div className='h-[70%] text-center'>
@@ -46,7 +46,7 @@ const Projects = () => {
 
         </div>
 
-        <div className='w-60 bg-white ml-7 mt-5 h-[300px] mb-14 shadow-2xl rounded-xl overflow-hidden '>
+        <div className='w-60 bg-white ml-14 mt-5 h-[300px] mb-14 shadow-2xl rounded-xl overflow-hidden '>
 
           <div className='h-1/3 bg-red-500 '><FaBookmark className='m-auto translate-y-[50%] text-5xl' /></div>
           <div className='h-[70%] text-center'>
