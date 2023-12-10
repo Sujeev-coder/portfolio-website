@@ -10,7 +10,7 @@ const page = () => {
   return (
    <>
    
-   <body className=' md:flex md:flex-col md:items-center md:justify-between bg-slate-500 h-[80vh] ' >
+   <body className=' md:flex md:flex-col md:items-center md:justify-between bg-white h-[80vh] ' >
 
 
 <Nav/>
