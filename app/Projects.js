@@ -8,9 +8,9 @@ const Projects = () => {
 
       <div id='projects' className='bg-white md:w-[100vw] md:text-center'><h1 className='text-5xl'>Projects</h1></div>
 
-      <div className='md:flex md:justify-center md:w-[100vw] md:flex-wrap'>
+      <div className='md:flex md:justify-center md:w-[100vw] md:flex-wrap r'>
 
-        <div className='w-60 bg-white ml-7 mt-5 h-[300px] mb-14 shadow-2xl rounded-xl overflow-hidden '>
+        <div className='w-60 bg-white ml-14 mt-5 h-[300px] mb-14  shadow-2xl rounded-xl overflow-hidden '>
 
           <div className='h-1/3 bg-red-500 '><FaAtlas className='m-auto translate-y-[50%] text-5xl' /></div>
           <div className='h-[70%] text-center'>
