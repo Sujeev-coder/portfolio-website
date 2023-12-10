@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'MyFont'; /* Name of the font */
+    src: url('/Fonts/barkanondemo-bold.otf') format('opentype'); /* Path to your font file */
+    /* You can add more src definitions for different formats (e.g., woff, woff2, etc.) */
+  }
